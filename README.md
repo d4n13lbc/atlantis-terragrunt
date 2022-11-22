@@ -25,3 +25,5 @@ repo config not allowed to set 'workflow' key: server-side config needs 'allowed
 - https://www.tecmint.com/wget-download-file-to-specific-directory/
 - https://www.runatlantis.io/docs/custom-workflows.html#terragrunt
 - https://www.runatlantis.io/docs/repo-level-atlantis-yaml.html#use-cases
+- https://www.runatlantis.io/docs/server-side-repo-config.html#do-i-need-a-server-side-config-file
+- https://www.runatlantis.io/docs/server-side-repo-config.html
