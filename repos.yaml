@@ -1,0 +1,4 @@
+repos:
+- id: /.*/
+  allowed_overrides: [workflow]
+  # Allow any repo to specify workflow in atlantis.yaml
